@@ -1,0 +1,13 @@
+C:\Lotta\Bootcamp\Dotnet\Numeropeli\obj\Debug\netcoreapp3.1\Numeropeli.csprojAssemblyReference.cache
+C:\Lotta\Bootcamp\Dotnet\Numeropeli\obj\Debug\netcoreapp3.1\Numeropeli.AssemblyInfoInputs.cache
+C:\Lotta\Bootcamp\Dotnet\Numeropeli\obj\Debug\netcoreapp3.1\Numeropeli.AssemblyInfo.cs
+C:\Lotta\Bootcamp\Dotnet\Numeropeli\obj\Debug\netcoreapp3.1\Numeropeli.csproj.CoreCompileInputs.cache
+C:\Lotta\Bootcamp\Dotnet\Numeropeli\bin\Debug\netcoreapp3.1\Numeropeli.exe
+C:\Lotta\Bootcamp\Dotnet\Numeropeli\bin\Debug\netcoreapp3.1\Numeropeli.deps.json
+C:\Lotta\Bootcamp\Dotnet\Numeropeli\bin\Debug\netcoreapp3.1\Numeropeli.runtimeconfig.json
+C:\Lotta\Bootcamp\Dotnet\Numeropeli\bin\Debug\netcoreapp3.1\Numeropeli.runtimeconfig.dev.json
+C:\Lotta\Bootcamp\Dotnet\Numeropeli\bin\Debug\netcoreapp3.1\Numeropeli.dll
+C:\Lotta\Bootcamp\Dotnet\Numeropeli\bin\Debug\netcoreapp3.1\Numeropeli.pdb
+C:\Lotta\Bootcamp\Dotnet\Numeropeli\obj\Debug\netcoreapp3.1\Numeropeli.dll
+C:\Lotta\Bootcamp\Dotnet\Numeropeli\obj\Debug\netcoreapp3.1\Numeropeli.pdb
+C:\Lotta\Bootcamp\Dotnet\Numeropeli\obj\Debug\netcoreapp3.1\Numeropeli.genruntimeconfig.cache
